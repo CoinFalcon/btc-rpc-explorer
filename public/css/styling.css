@@ -1,6 +1,6 @@
 body {
 	font-size: 14px;
-	font-family: "Ubuntu", sans-serif;
+	font-family: "Roboto", sans-serif;
 	/*font: 14px 'Open Sans', "Lucida Grande", Helvetica, Arial, sans-serif;*/
 }
 
@@ -236,7 +236,7 @@ footer a:hover {
 	color: white;
 }
 
-.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>td,
 .table-striped>tbody>tr:nth-child(odd)>th {
 	/*background-color: #fbfbfb;*/
 }
